@@ -1,0 +1,8 @@
+C:\Users\jonas\Desktop\SimpleIoC\build\netcoreapp3.1\SimpleIoC.deps.json
+C:\Users\jonas\Desktop\SimpleIoC\build\netcoreapp3.1\SimpleIoC.dll
+C:\Users\jonas\Desktop\SimpleIoC\build\netcoreapp3.1\SimpleIoC.pdb
+C:\Users\jonas\Desktop\SimpleIoC\src\SimpleIoC\obj\Debug\netcoreapp3.1\SimpleIoC.csprojAssemblyReference.cache
+C:\Users\jonas\Desktop\SimpleIoC\src\SimpleIoC\obj\Debug\netcoreapp3.1\SimpleIoC.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\SimpleIoC\src\SimpleIoC\obj\Debug\netcoreapp3.1\SimpleIoC.AssemblyInfo.cs
+C:\Users\jonas\Desktop\SimpleIoC\src\SimpleIoC\obj\Debug\netcoreapp3.1\SimpleIoC.dll
+C:\Users\jonas\Desktop\SimpleIoC\src\SimpleIoC\obj\Debug\netcoreapp3.1\SimpleIoC.pdb

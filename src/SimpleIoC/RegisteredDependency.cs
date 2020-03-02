@@ -7,7 +7,7 @@ namespace SimpleIoC
         public Type ImplementationType { get; private set; }
         public Type InterfaceType { get; private set; }
         public Lifestyle Lifestyle { get; private set; }
-        public object SingletonObject { get; private set; } = null;
+        public object SingletonObject { get; set; } = null;
         public bool HasFactory => !(factory is null);
         public object FactoryConstruct() => factory();
 

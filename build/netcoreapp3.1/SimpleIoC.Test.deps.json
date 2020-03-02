@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleIoC.Test/1.0.0": {
+        "dependencies": {
+          "SimpleIoC": "1.0.0"
+        },
+        "runtime": {
+          "SimpleIoC.Test.dll": {}
+        }
+      },
+      "SimpleIoC/1.0.0": {
+        "runtime": {
+          "SimpleIoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleIoC.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleIoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
